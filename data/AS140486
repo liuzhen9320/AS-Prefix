@@ -1,0 +1,10 @@
+# AS140486 - CHINATELECOM ZHEJIANG province JINHUA 5GC network
+240e:1c7:20::/44
+240e:471::/32
+240e:471:eeec::/48
+240e:471:eeed::/48
+240e:473:ff01::/48
+240e:473:fffe::/48
+240e:870:40::/44
+240e:871:10::/44
+60.163.66.0/23

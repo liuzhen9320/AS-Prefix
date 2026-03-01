@@ -1,0 +1,5 @@
+# AS50869 - Free-IX Remote Peering
+2a0b:dd80:3100::/40
+2a0b:dd80:3101::/48
+2a0b:dd80:3102::/48
+2a0b:dd80:3103::/48

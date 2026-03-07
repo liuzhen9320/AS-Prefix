@@ -1,0 +1,7 @@
+# AS17918 - ac3, Australian Centre for Advanced Computing and Communications
+2404:8600::/32
+2404:8600:4000::/37
+117.53.160.0/20
+117.53.166.0/24
+202.44.98.0/23
+202.129.128.0/19

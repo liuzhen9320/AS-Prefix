@@ -1,0 +1,7 @@
+# AS208183 - Internetmanufaktur Karlsruhe UG (haftungsbeschraenkt)
+2a0f:6500::/32
+2a0f:6500:1000::/36
+2a0f:6500:3000::/36
+45.152.228.0/24
+45.152.228.0/22
+45.152.229.0/24
